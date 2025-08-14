@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash　テスト
 
 DIR="$( cd "$( dirname $0 )" && pwd )"
 cd ${DIR}/..
