@@ -32,7 +32,7 @@ import os
 import re
 import subprocess
 
-# Output path
+# Output path testAAA
 outputPath = os.path.join("..", "output")
 if not os.path.exists(outputPath): os.makedirs(outputPath)
 pdfBookPath = os.path.join(outputPath, "ofBook.pdf")
